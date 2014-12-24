@@ -8,7 +8,7 @@ import java.net.URLClassLoader;
 import java.util.ArrayList;
 import java.util.List;
 
-import server.ServerException;
+import exception.ServerException;
 
 
 public class Server {

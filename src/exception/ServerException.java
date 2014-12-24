@@ -1,4 +1,4 @@
-package server;
+package exception;
 
 /**
  * Server Exception Class
